@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hello, my name is Tyrone Smith and I am a aspiring Devops Engineer looking to get their first role in the tech industry! Below you will find links to projects that I've done using cloud providers like AWS.
 
-<!--
-**ty4955/ty4955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cloud Computing Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Analysis, Visualization and Transformation</b>
+  - [Data Visualization Project](https://youtu.be/LwlZDfvq-vI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[youtube]: https://www.youtube.com/TyroneSmith/
+[linkedin]: https://linkedin.com/in/TyroneSmith/
+
+
+
