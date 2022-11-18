@@ -13,8 +13,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/TyroneSmith/
-[linkedin]: https://linkedin.com/in/TyroneSmith/
+[youtube]: [https://www.youtube.com/TyroneSmith/](https://www.youtube.com/channel/UC0jFcIKqBR15CWFhONtSnXA)
+[linkedin]: [https://linkedin.com/in/TyroneSmith/](https://www.linkedin.com/in/tyrone-smith-74b15a233/)
 
 
 
