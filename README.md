@@ -1,4 +1,4 @@
-<h1>Hello, my name is Tyrone Smith and I am a aspiring Devops Engineer looking to get their first role in the tech industry! Below you will find links to projects that I've done using cloud providers like AWS.
+<h1>Hello, my name is Tyrone Smith, below you will find links to projects that I've done using cloud providers like AWS.
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
