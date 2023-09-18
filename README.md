@@ -12,12 +12,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="[https://www.youtube.com/TyroneSmith/]" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TyroneSmith | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="TyroneSmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: [https://www.youtube.com/TyroneSmith/](https://www.youtube.com/channel/UC0jFcIKqBR15CWFhONtSnXA)
-[linkedin]: [https://linkedin.com/in/TyroneSmith/](https://www.linkedin.com/in/tyrone-smith-74b15a233/)
-
-
-
+[youtube]: https://www.youtube.com/channel/UC0jFcIKqBR15CWFhONtSnXA
+[linkedin]: https://linkedin.com/in/tyrone-smith-74b15a233/
