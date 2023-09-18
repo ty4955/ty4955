@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
-- <b>Data Analysis, Visualization and Transformation</b>
   - [Data Visualization Project](https://youtu.be/LwlZDfvq-vI)
   -  [Anonymous Embedding Project](https://youtu.be/7mr5xVljPQM)
   - [Amazon Reviews Project](https://youtu.be/6jdzj9msUGI)
+  - [LAMP Stack Project](https://youtu.be/9ZX7do61HwA)
 
 
 
