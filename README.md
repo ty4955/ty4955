@@ -4,6 +4,9 @@
 
 - <b>Data Analysis, Visualization and Transformation</b>
   - [Data Visualization Project](https://youtu.be/LwlZDfvq-vI)
+  -  [Anonymous Embedding Project](https://youtu.be/7mr5xVljPQM)
+  - [Amazon Reviews Project](https://youtu.be/6jdzj9msUGI)
+
 
 
 
