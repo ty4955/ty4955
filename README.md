@@ -6,6 +6,8 @@
   -  [Anonymous Embedding Project](https://youtu.be/7mr5xVljPQM)
   - [Amazon Reviews Project](https://youtu.be/6jdzj9msUGI)
   - [LAMP Stack Project](https://youtu.be/9ZX7do61HwA)
+  - [LNMP Stack Project](https://youtu.be/57XI91428Ts)
+  - [Rearchitecting Web Application](https://youtu.be/lI5flpQQ1bA)
 
 
 
