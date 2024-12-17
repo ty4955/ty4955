@@ -3,11 +3,15 @@
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
   - [Data Visualization Project](https://youtu.be/LwlZDfvq-vI)
-  -  [Anonymous Embedding Project](https://youtu.be/7mr5xVljPQM)
+  - [Anonymous Embedding Project](https://youtu.be/7mr5xVljPQM)
   - [Amazon Reviews Project](https://youtu.be/6jdzj9msUGI)
   - [LAMP Stack Project](https://youtu.be/9ZX7do61HwA)
   - [LNMP Stack Project](https://youtu.be/57XI91428Ts)
   - [Rearchitecting Web Application](https://youtu.be/lI5flpQQ1bA)
+  - [Setting Up SSH Server & Client](https://youtu.be/MVOywh-LPWA)
+  - [Dockerizing An Apache Web Server](https://youtu.be/pWyrylU8hEk)
+  - [Dockerizing A Python Flask Application](https://youtu.be/WUt52d4cKEI)
+  - [Setting Up A Spring Boot Application](https://youtu.be/mT8Qev7z2QI)
 
 
 
