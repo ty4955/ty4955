@@ -12,6 +12,7 @@
   - [Dockerizing An Apache Web Server](https://youtu.be/pWyrylU8hEk)
   - [Dockerizing A Python Flask Application](https://youtu.be/WUt52d4cKEI)
   - [Setting Up A Spring Boot Application](https://youtu.be/mT8Qev7z2QI)
+  - [Deploying A High Performance Computing Cluster With AWS](https://www.loom.com/share/b6c6ff20458f4715bcf986b3a8f0a4d4?sid=4a2f616b-7bcc-4144-9168-42920762a42f)
 
 
 
